@@ -12,6 +12,7 @@ Power **
 Floor Division://
 
 """
+<<<<<<< HEAD
 """
 data type----
 Dictionary.
@@ -20,3 +21,5 @@ def:dictionary is collection if items  arranged as key value separateed by comma
 d={"name":"deep","address":"siraha","age":"21"}
 
 """
+=======
+>>>>>>> 3d239d27f1b7e25af773855446e77ea0fc91949e
